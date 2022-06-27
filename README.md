@@ -6,6 +6,8 @@ A Pomodora app completely from scratch using tkinter.
 The "Pomodoro technique", this famous book by Francesco Cirillo.
 This famous technique that helps people time-manage and to get more stuff done.
 
+![Time_to_work](https://user-images.githubusercontent.com/99026818/175912275-63aba92d-03a7-4a47-86d3-666e92f8bd62.jpg)
+
 #### The essence of this application is as follows:
 - the timer counts down 25 minutes of working time;
 - then break 5 minutes;
