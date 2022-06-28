@@ -18,4 +18,8 @@ This famous technique that helps people time-manage and to get more stuff done.
 So using this program, you're going to increase your productivity and you're going
 to have your own handy tool to help you achieve more and do more.
 
+#### Technologies:
+- Python 3;
+- libraries Tkinter and Math.
+
 #### You can run this project locally just do:
