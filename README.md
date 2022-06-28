@@ -20,7 +20,7 @@ to have your own handy tool to help you achieve more and do more.
 
 ### Technologies:
 - Python 3;
-- libraries Tkinter and Math.
+- modules Tkinter and Math.
 
 ### You can run this project locally just do:
 - `git clone https://github.com/slychagin/pomodoro-work-timer.git`;
