@@ -26,5 +26,5 @@ to have your own handy tool to help you achieve more and do more.
 - `git clone https://github.com/slychagin/pomodoro-work-timer.git`;
 - you must have Python 3 installed on your computer;
 - make sure that the directory for the python bin/folder are included in your $PATH environment variable;
-- in cmd `cd pomodoro-work-timer`;
-- run the following in the cmd `python main.py`.
+- `cd pomodoro-work-timer`;
+- `python main.py`.
